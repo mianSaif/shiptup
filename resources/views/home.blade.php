@@ -120,14 +120,12 @@
                                                     <div class="qodef-m-text-item">
                                                         <h4 class="qodef-e-title">Total Power Up to 750
                                                             hp</h4>
-                                                        <p>Lorem ipsum dolor sit amet, consectetur
-                                                            adipiscing elit, sed do eiusmod tempor
-                                                            incididunt ut labore et dolore magna.</p> <br />
+                                                        <p>We deal with horsepowers as high as 750hp. Our product icreases the efficiency and effectiveness of you engines.</p> <br />
                                                         <h4 class="qodef-e-title">Power consumption</h4>
                                                         <ul>
-                                                            <li>Fermentum posuere urna nec tinc</li>
-                                                            <li>Gravida in fermentum et sollicitudin</li>
-                                                            <li>Malesuada fames ac turpis egestas</li>
+                                                            <li>Decreased power consumption</li>
+                                                            <li>Increased performance</li>
+                                                            <li>More balance</li>
                                                         </ul>
                                                         <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/blog-right-sidebar/" target="_self"> <span class="qodef-m-text">View More</span></a>
                                                     </div>
@@ -135,55 +133,48 @@
                                                         <h4 class="qodef-e-title">Technology &amp;
                                                             Automation
                                                         </h4>
-                                                        <p>Maecenas nec feugiat neque. Morbi vitae dui
-                                                            luctus, faucibus magna et, mollis lorem.</p>
+                                                        <p>Our service used latest and revolutionary technologies to increase the perfomance of your vehicle, which also greatly affects the acceleration.</p>
                                                         <br />
                                                         <h4 class="qodef-e-title">Long-term investments</h4>
                                                         <ul>
-                                                            <li> Nulla ac enim sed neque</li>
-                                                            <li>Gravida in fermentum et sollicit</li>
+                                                            <li>Best for long term goal</li>
+                                                            <li>Get for one-time, enjoy for life-time</li>
                                                         </ul>
                                                         <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/blog-left-sidebar/" target="_self"> <span class="qodef-m-text">View More</span></a>
                                                     </div>
                                                     <div class="qodef-m-text-item">
                                                         <h4 class="qodef-e-title">innovative solutions</h4>
-                                                        <p>Nulla a ligula eu nisl blandit porttitor. Nulla
-                                                            vehicula porttitor tellus ut molestie. Duis
-                                                            pharetra.</p> <br />
+                                                        <p>Our solution provides a new and innovative way, which has been experimented with a lot and perfected. </p> <br />
                                                         <h4 class="qodef-e-title">streamline complex
                                                             ecosystems</h4>
                                                         <ul>
-                                                            <li>Fermentum posuere urna nec tinc</li>
-                                                            <li>Fusce dapibus consectetur ante</li>
-                                                            <li>Proin laoreet at elit sectilit</li>
+                                                            <li>Become a part</li>
+                                                            <li>Enjoy high performance</li>
+                                                            <li>Use less resources</li>
                                                         </ul>
                                                         <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/blog-no-sidebar/" target="_self"> <span class="qodef-m-text">View More</span></a>
                                                     </div>
                                                     <div class="qodef-m-text-item">
                                                         <h4 class="qodef-e-title">newest available
                                                             technologies</h4>
-                                                        <p>Lorem ipsum dolor sit amet, consectetur
-                                                            adipiscing elit, sed do eiusmod tempor
-                                                            incididunt ut labore et dolore magna.</p> <br />
+                                                        <p>We provide you with the newest available technologies that you can savor. Our product is top-of-the-line in all aspects.</p> <br />
                                                         <h4 class="qodef-e-title">Power consumption</h4>
                                                         <ul>
-                                                            <li>Gravida in fermentum et sollicitudin</li>
-                                                            <li>Malesuada fames ac turpis egestas</li>
+                                                            <li>Reduced power consumption</li>
+                                                            <li>Increased relative perfomance</li>
                                                         </ul>
                                                         <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/hands-on-the-wheel/" target="_self"> <span class="qodef-m-text">View More</span></a>
                                                     </div>
                                                     <div class="qodef-m-text-item">
                                                         <h4 class="qodef-e-title">more effective
                                                             strategy</h4>
-                                                        <p>Donec ultricies, risus in sodales vestibulum,
-                                                            velit lorem varius dolor, ut pulvinar nisl mi
-                                                            nec tortor.</p> <br />
+                                                        <p>Get our product to get a part of our more effective strategy, and enjoy the full power of your vehicle.</p> <br />
                                                         <h4 class="qodef-e-title">advanced digital
                                                             state</h4>
                                                         <ul>
-                                                            <li>Fermentum posuere urna nec tinc</li>
-                                                            <li>Maecenas fermentum ligula sed</li>
-                                                            <li>Malesuada fames ac turpis egestas</li>
+                                                            <li>Resources available digitally.</li>
+                                                            <li>Responsive support team</li>
+                                                            <li>Order online and receive at your doorsteps</li>
                                                         </ul>
                                                         <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/car-design/" target="_self"> <span class="qodef-m-text">View More</span></a>
                                                     </div>
@@ -284,9 +275,7 @@
                                             <div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left ">
                                                 <h2 class="qodef-m-title" style="color: #EEEEEE">
                                                     THE FASTEST ELECTRIC CAR IN THE WORLD </h2>
-                                                <p class="qodef-m-text">Lorem ipsum dolor sit amet,
-                                                    consectetur adipiscing elit, sed do amet eiusmod
-                                                    tilti.</p>
+                                                <p class="qodef-m-text">We deal with high performace vehicles and provide them awesome services.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -322,10 +311,7 @@
                                                                 <div class="qodef-m-info">
                                                                     <h4 class="qodef-m-title" style="color: #EEEEEE">
                                                                         Pure sportiness </h4>
-                                                                    <p class="qodef-m-text">Eget magna
-                                                                        fermentum iaculis diam phasellus
-                                                                        vestibulum lorem eget mauris
-                                                                        pharetra et.</p>
+                                                                    <p class="qodef-m-text">Compact and sleek design. Attractive and aesthetic. Infused with pure sportiness and modern design aspects.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -338,10 +324,7 @@
                                                                 <div class="qodef-m-info">
                                                                     <h4 class="qodef-m-title" style="color: #EEEEEE">
                                                                         Driver-oriented </h4>
-                                                                    <p class="qodef-m-text">Eget magna
-                                                                        fermentum iaculis diam phasellus
-                                                                        vestibulum lorem eget mauris
-                                                                        pharetra et.</p>
+                                                                    <p class="qodef-m-text">Optimized for the concerns from driver's point of view. We keep your view in our consideration and work according to it.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -358,10 +341,7 @@
                                                                 <div class="qodef-m-info">
                                                                     <h4 class="qodef-m-title" style="color: #EEEEEE">
                                                                         All-round star </h4>
-                                                                    <p class="qodef-m-text">Eget magna
-                                                                        fermentum iaculis diam phasellus
-                                                                        vestibulum lorem eget mauris
-                                                                        pharetra et.</p>
+                                                                    <p class="qodef-m-text">Excelling in performance, looks, feel, and literally everything, we provide an All-rounder solution..</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -374,10 +354,7 @@
                                                                 <div class="qodef-m-info">
                                                                     <h4 class="qodef-m-title" style="color: #EEEEEE">
                                                                         Aerodynamic </h4>
-                                                                    <p class="qodef-m-text">Eget magna
-                                                                        fermentum iaculis diam phasellus
-                                                                        vestibulum lorem eget mauris
-                                                                        pharetra et.</p>
+                                                                    <p class="qodef-m-text">Perfect aerodynamics. Our designs keep in mind all design aspects with respect of aerodynamics, and provide an optimized solution for all kind of weathers and conditions.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -394,10 +371,7 @@
                                                                 <div class="qodef-m-info">
                                                                     <h4 class="qodef-m-title" style="color: #EEEEEE">
                                                                         Instant power </h4>
-                                                                    <p class="qodef-m-text">Eget magna
-                                                                        fermentum iaculis diam phasellus
-                                                                        vestibulum lorem eget mauris
-                                                                        pharetra et.</p>
+                                                                        <p class="qodef-m-text">Feel the difference. <br>Your vehicle would love it too!</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -622,12 +596,8 @@
                                                     <div class="elementor-element elementor-element-b5ec905 elementor-widget elementor-widget-shiftup_core_section_title" data-id="b5ec905" data-element_type="widget" data-widget_type="shiftup_core_section_title.default">
                                                         <div class="elementor-widget-container">
                                                             <div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left ">
-                                                                <p class="qodef-m-text">Urna condimentum
-                                                                    mattis pellentesque id nibh tortor.
-                                                                    Sagittis nisl rhoncus mattis rhoncus
-                                                                    urna neque viverra. Rhoncus urna neque
-                                                                    viverra justo nec ultrices
-                                                                    dui sapien. Eu facilisis sed odio.</p>
+                                                                <p class="qodef-m-text">Get our product and enjoy limitless possibilities. <br>
+                                                            Our solution makes it possible for you to get the full power from your vehicle and enjoy the real feel of driving.</p>
                                                             </div>
                                                         </div>
                                                     </div>
