@@ -341,7 +341,7 @@
                                                                 <div class="qodef-m-info">
                                                                     <h4 class="qodef-m-title" style="color: #EEEEEE">
                                                                         All-round star </h4>
-                                                                    <p class="qodef-m-text">Excelling in performance, looks, feel, and literally everything, we provide an All-rounder solution..</p>
+                                                                    <p class="qodef-m-text">Excelling in performance, looks, feel, and literally everything, we provide an All-rounder solution.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
