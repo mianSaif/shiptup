@@ -8,13 +8,13 @@
     <meta name='robots' content='max-image-preview:large' />
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
     <style type="text/css">
-        
+
     </style>
-    
+
     <style id="material-icons-css" media="all">
         /* fallback */
 
-        
+
     </style>
     <link rel='stylesheet' id='simple-line-icons-css' href='{{ asset("wp-content/plugins/shiftup-core/inc/icons/simple-line-icons/assets/css/simple-line-icons.min.css?ver=6.0") }}' type='text/css' media='all' />
 
@@ -1187,18 +1187,7 @@
 
     <script type='text/javascript' src='wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
     <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
-    
 
-
-    <script data-cfasync="false" data-pagespeed-no-defer>
-        //<![CDATA[
-        var dataLayer_content = {
-            "pagePostType": "frontpage",
-            "pagePostType2": "single-page",
-            "pagePostAuthor": "admin"
-        };
-        dataLayer.push(dataLayer_content); //]]>
-    </script>
     <script data-cfasync="false">
         //<![CDATA[
         (function(w, d, s, l, i) {
@@ -1226,7 +1215,7 @@
     </noscript>
     <meta name="generator" content="Powered by Slider Revolution 6.5.14 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
         <script>
-        function setREVStartSize(e) { 
+        function setREVStartSize(e) {
             //window.requestAnimationFrame(function() {
             window.RSIW = window.RSIW === undefined ? window.innerWidth : window.RSIW;
             window.RSIH = window.RSIH === undefined ? window.innerHeight : window.RSIH;
@@ -1648,40 +1637,9 @@
     <script type='text/javascript' src='{{ asset("wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.14") }}' defer async id='tp-tools-js'></script>
     <script type='text/javascript' src='{{ asset("wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.14") }}' defer async id='revmin-js'></script>
     <script type='text/javascript' src='{{ asset("wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.1.2") }}' id='jquery-blockui-js'></script>
-    <script type='text/javascript' id='wc-add-to-cart-js-extra'>
-        /* <![CDATA[ */
-        var wc_add_to_cart_params = {
-            "ajax_url": "\/wp-admin\/admin-ajax.php",
-            "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
-            "i18n_view_cart": "View cart",
-            "cart_url": "https:\/\/shiftup.qodeinteractive.com\/cart\/",
-            "is_cart": "",
-            "cart_redirect_after_add": "no"
-        };
-        /* ]]> */
-    </script>
     <script type='text/javascript' src='{{ asset("wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.1.2") }}' id='wc-add-to-cart-js'></script>
     <script type='text/javascript' src='{{ asset("wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.1.2") }}' id='js-cookie-js'></script>
-    <script type='text/javascript' id='woocommerce-js-extra'>
-        /* <![CDATA[ */
-        var woocommerce_params = {
-            "ajax_url": "\/wp-admin\/admin-ajax.php",
-            "wc_ajax_url": "\/?wc-ajax=%%endpoint%%"
-        };
-        /* ]]> */
-    </script>
     <script type='text/javascript' src='{{ asset("wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.1.2") }}' id='woocommerce-js'></script>
-    <script type='text/javascript' id='wc-cart-fragments-js-extra'>
-        /* <![CDATA[ */
-        var wc_cart_fragments_params = {
-            "ajax_url": "\/wp-admin\/admin-ajax.php",
-            "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
-            "cart_hash_key": "wc_cart_hash_22b36f1652ea5540f117d800307d287d",
-            "fragment_name": "wc_fragments_22b36f1652ea5540f117d800307d287d",
-            "request_timeout": "5000"
-        };
-        /* ]]> */
-    </script>
     <script type='text/javascript' src='{{ asset("wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.1.2") }}' id='wc-cart-fragments-js'></script>
     <script type='text/javascript' src='https://shiftup.qodeinteractive.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
     <script type='text/javascript' id='qi-addons-for-elementor-script-js-extra'>
