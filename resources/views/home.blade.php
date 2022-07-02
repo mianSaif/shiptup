@@ -17,36 +17,36 @@
                                                 <rs-module-wrap id="rev_slider_6_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;">
                                                     <rs-module id="rev_slider_6_1" style="" data-version="6.5.14">
                                                         <rs-slides>
-                                                            <rs-slide style="position: absolute;" data-key="rs-6" data-title="Slide" data-thumb="wp-content/uploads/2021/12/h1-rev-img-50x100.jpg" data-in="o:1;" data-out="x:100%;">
-                                                                <img loading="lazy" src="wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="h1-rev-img" width="1920" height="1100" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="wp-content/uploads/2021/12/h1-rev-img.jpg" data-no-retina>
+                                                            <rs-slide style="position: absolute;" data-key="rs-6" data-title="Slide" data-thumb="{{ asset('wp-content/uploads/2021/12/h1-rev-img-50x100.jpg') }}" data-in="o:1;" data-out="x:100%;">
+                                                                <img loading="lazy" src="{{ asset('wp-content/plugins/revslider/public/assets/assets/dummy.png') }}" alt="" title="h1-rev-img" width="1920" height="1100" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('wp-content/uploads/2021/12/h1-rev-img.jpg') }}" data-no-retina>
                                                                 <rs-layer id="slider-6-slide-6-layer-0" data-type="text" data-xy="x:c;y:m;yo:203px,150px,180px,80px;" data-text="w:normal;s:65,50,50,50;l:55;fw:600;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50;" data-frame_1="e:power2.inOut;st:200;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:5;font-family:'Oxanium';text-transform:uppercase;">
-                                                                    The future
+                                                                    Fuel Savings Plus
                                                                 </rs-layer>
                                                                 <rs-layer id="slider-6-slide-6-layer-1" data-type="text" data-xy="x:c;y:m;yo:300px,235px,265px,165px;" data-text="w:normal;s:19;l:24;" data-dim="w:216.73400000000004px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50;" data-frame_1="e:power2.inOut;st:400;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:'Roboto';">
-                                                                    <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/shop/" target="_self" style="color: #FFFFFF">
-                                                                        <span class="qodef-m-text">View more</span>
+                                                                    <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="#" target="_self" style="color: #FFFFFF">
+                                                                        <span class="qodef-m-text">Join Now</span>
                                                                     </a>
                                                                 </rs-layer>
                                                             </rs-slide>
-                                                            <rs-slide style="position: absolute;" data-key="rs-7" data-title="Slide" data-thumb="wp-content/uploads/2021/12/h1-rev-img2-50x100.jpg" data-in="o:1;" data-out="x:100%;">
-                                                                <img loading="lazy" src="wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="j" title="h1-rev-img2" width="1920" height="1100" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="wp-content/uploads/2021/12/h1-rev-img2.jpg" data-no-retina>
+                                                            <rs-slide style="position: absolute;" data-key="rs-7" data-title="Slide" data-thumb="{{ asset('wp-content/uploads/2021/12/h1-rev-img2-50x100.jpg') }}" data-in="o:1;" data-out="x:100%;">
+                                                                <img loading="lazy" src="{{ asset('wp-content/plugins/revslider/public/assets/assets/dummy.png') }}" alt="j" title="h1-rev-img2" width="1920" height="1100" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('wp-content/uploads/2021/12/h1-rev-img2.jpg') }}" data-no-retina>
                                                                 <rs-layer id="slider-6-slide-7-layer-0" data-type="text" data-xy="x:l,l,l,c;xo:257px,180px,90px,0;y:m;yo:-43px,-30px,-15px,80px;" data-text="w:normal;s:65,50,50,50;l:55;fw:600;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50;" data-frame_1="e:power4.inOut;st:200;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:5;font-family:'Oxanium';text-transform:uppercase;">
-                                                                    Fast ride
+                                                                    Increase Power
                                                                 </rs-layer>
                                                                 <rs-layer id="slider-6-slide-7-layer-1" data-type="text" data-xy="x:l,l,l,c;xo:260px,180px,90px,0;y:m;yo:53px,55px,70px,165px;" data-text="w:normal;s:19;l:24;" data-dim="w:216.73400000000004px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50;" data-frame_1="e:power2.inOut;st:400;sp:800;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:'Roboto';">
-                                                                    <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/product/generator/" target="_self" style="color: #FFFFFF">
-                                                                        <span class="qodef-m-text">View more</span>
+                                                                    <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="#" target="_self" style="color: #FFFFFF">
+                                                                        <span class="qodef-m-text">Join Now</span>
                                                                     </a>
                                                                 </rs-layer>
                                                             </rs-slide>
-                                                            <rs-slide style="position: absolute;" data-key="rs-14" data-title="Slide" data-thumb="wp-content/uploads/2021/12/h1-rev-img4-50x100.jpg" data-in="o:1;" data-out="x:100%;">
-                                                                <img loading="lazy" src="wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="j" title="h1-rev-img4" width="1920" height="1100" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="wp-content/uploads/2021/12/h1-rev-img4.jpg" data-no-retina>
+                                                            <rs-slide style="position: absolute;" data-key="rs-14" data-title="Slide" data-thumb="{{ asset('wp-content/uploads/2021/12/h1-rev-img4-50x100.jpg') }}" data-in="o:1;" data-out="x:100%;">
+                                                                <img loading="lazy" src="{{ asset('wp-content/plugins/revslider/public/assets/assets/dummy.png') }}" alt="j" title="h1-rev-img4" width="1920" height="1100" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('wp-content/uploads/2021/12/h1-rev-img4.jpg') }}" data-no-retina>
                                                                 <rs-layer id="slider-6-slide-14-layer-0" data-type="text" data-xy="x:l,l,l,c;xo:260px,130px,90px,0;y:m;yo:-43px,-30px,-15px,80px;" data-text="w:normal;s:65,50,50,50;l:55;fw:600;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50;" data-frame_1="e:power2.inOut;st:200;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:5;font-family:'Oxanium';text-transform:uppercase;">
-                                                                    top rated
+                                                                    Clean Engine
                                                                 </rs-layer>
                                                                 <rs-layer id="slider-6-slide-14-layer-1" data-type="text" data-xy="x:l,l,l,c;xo:260px,130px,90px,0;y:m;yo:53px,55px,70px,165px;" data-text="w:normal;s:19;l:24;" data-dim="w:216.73400000000004px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50;" data-frame_1="e:power2.inOut;st:400;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:'Roboto';">
-                                                                    <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/product/accumulator/" target="_self" style="color: #FFFFFF">
-                                                                        <span class="qodef-m-text">View more</span>
+                                                                    <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="#" target="_self" style="color: #FFFFFF">
+                                                                        <span class="qodef-m-text">Join Now</span>
                                                                     </a>
                                                                 </rs-layer>
                                                             </rs-slide>
@@ -88,32 +88,32 @@
                                     <div class="elementor-element elementor-element-04b0ebd elementor-widget elementor-widget-shiftup_core_interactive_link_showcase" data-id="04b0ebd" data-element_type="widget" data-widget_type="shiftup_core_interactive_link_showcase.default">
                                         <div class="elementor-widget-container">
                                             <div class="qodef-shortcode qodef-m  qodef-interactive-link-showcase qodef-layout--list qodef-skin--light">
-                                                <h6 class="qodef-tagline"> Tehnical specification</h6>
+                                                <h6 class="qodef-tagline"> Product Quality</h6>
                                                 <div class="qodef-m-items">
                                                     <a itemprop="url" class="qodef-m-item qodef-e" href="#" target="_self">
-                                                        <span class="qodef-e-title">Range</span>
+                                                        <span class="qodef-e-title">Fuel</span>
                                                         <span class="qodef-e-title-overlay">
-                                                            Range </span>
+                                                            Fuel </span>
                                                     </a>
                                                     <a itemprop="url" class="qodef-m-item qodef-e" href="#" target="_self">
-                                                        <span class="qodef-e-title">Acceleration</span>
+                                                        <span class="qodef-e-title">Increase fuel</span>
                                                         <span class="qodef-e-title-overlay">
-                                                            Acceleration </span>
+                                                            Increase fuel</span>
                                                     </a>
                                                     <a itemprop="url" class="qodef-m-item qodef-e" href="#" target="_self">
-                                                        <span class="qodef-e-title">Total power</span>
+                                                        <span class="qodef-e-title">efficiency</span>
                                                         <span class="qodef-e-title-overlay">
-                                                            Total power </span>
+                                                            efficiency</span>
                                                     </a>
                                                     <a itemprop="url" class="qodef-m-item qodef-e" href="#" target="_self">
-                                                        <span class="qodef-e-title">Charging</span>
+                                                        <span class="qodef-e-title">and reduce</span>
                                                         <span class="qodef-e-title-overlay">
-                                                            Charging </span>
+                                                            and reduce</span>
                                                     </a>
                                                     <a itemprop="url" class="qodef-m-item qodef-e" href="#" target="_self">
-                                                        <span class="qodef-e-title">Interior</span>
+                                                        <span class="qodef-e-title">maintenance</span>
                                                         <span class="qodef-e-title-overlay">
-                                                            Interior </span>
+                                                            maintenance</span>
                                                     </a>
                                                 </div>
                                                 <div class="qodef-m-content">
@@ -121,13 +121,13 @@
                                                         <h4 class="qodef-e-title">Total Power Up to 750
                                                             hp</h4>
                                                         <p>We deal with horsepowers as high as 750hp. Our product icreases the efficiency and effectiveness of you engines.</p> <br />
-                                                        <h4 class="qodef-e-title">Power consumption</h4>
+                                                        <h4 class="qodef-e-title">Product Qualities</h4>
                                                         <ul>
-                                                            <li>Decreased power consumption</li>
-                                                            <li>Increased performance</li>
-                                                            <li>More balance</li>
+                                                            <li>Reduces Carbon Build Up</li>
+                                                            <li>Increases Horsepower</li>
+                                                            <li>Increase Fuel Mileage</li>
                                                         </ul>
-                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/blog-right-sidebar/" target="_self"> <span class="qodef-m-text">View More</span></a>
+                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="#" target="_self"> <span class="qodef-m-text">Join Now</span></a>
                                                     </div>
                                                     <div class="qodef-m-text-item">
                                                         <h4 class="qodef-e-title">Technology &amp;
@@ -140,7 +140,7 @@
                                                             <li>Best for long term goal</li>
                                                             <li>Get for one-time, enjoy for life-time</li>
                                                         </ul>
-                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/blog-left-sidebar/" target="_self"> <span class="qodef-m-text">View More</span></a>
+                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="#" target="_self"> <span class="qodef-m-text">View More</span></a>
                                                     </div>
                                                     <div class="qodef-m-text-item">
                                                         <h4 class="qodef-e-title">innovative solutions</h4>
@@ -152,7 +152,7 @@
                                                             <li>Enjoy high performance</li>
                                                             <li>Use less resources</li>
                                                         </ul>
-                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/blog-no-sidebar/" target="_self"> <span class="qodef-m-text">View More</span></a>
+                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="#" target="_self"> <span class="qodef-m-text">View More</span></a>
                                                     </div>
                                                     <div class="qodef-m-text-item">
                                                         <h4 class="qodef-e-title">newest available
@@ -163,7 +163,7 @@
                                                             <li>Reduced power consumption</li>
                                                             <li>Increased relative perfomance</li>
                                                         </ul>
-                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/hands-on-the-wheel/" target="_self"> <span class="qodef-m-text">View More</span></a>
+                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="#" target="_self"> <span class="qodef-m-text">View More</span></a>
                                                     </div>
                                                     <div class="qodef-m-text-item">
                                                         <h4 class="qodef-e-title">more effective
@@ -176,7 +176,7 @@
                                                             <li>Responsive support team</li>
                                                             <li>Order online and receive at your doorsteps</li>
                                                         </ul>
-                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/car-design/" target="_self"> <span class="qodef-m-text">View More</span></a>
+                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="#" target="_self"> <span class="qodef-m-text">View More</span></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -196,9 +196,8 @@
                                                 <div class="qodef-m-inner">
                                                     <div class="qodef-m-canvas">
                                                     </div>
-                                                    <h5 class="qodef-m-title" style="color: #FFFFFF">New
-                                                        concept / design</h5>
-                                                    <span class="qodef-m-additional-label" style="color: #FFFFFF">2021</span>
+                                                    <h5 class="qodef-m-title" style="color: #FFFFFF">Fuel Savings Plus</h5>
+                                                    <span class="qodef-m-additional-label" style="color: #FFFFFF">2022</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -209,9 +208,8 @@
                                                 <div class="qodef-m-inner">
                                                     <div class="qodef-m-canvas">
                                                     </div>
-                                                    <h5 class="qodef-m-title" style="color: #FFFFFF">New
-                                                        concept / service</h5>
-                                                    <span class="qodef-m-additional-label" style="color: #FFFFFF">2021</span>
+                                                    <h5 class="qodef-m-title" style="color: #FFFFFF">Worldwide Patent</h5>
+                                                    <span class="qodef-m-additional-label" style="color: #FFFFFF">2022</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -222,9 +220,8 @@
                                                 <div class="qodef-m-inner">
                                                     <div class="qodef-m-canvas">
                                                     </div>
-                                                    <h5 class="qodef-m-title" style="color: #FFFFFF">New
-                                                        concept / repair</h5>
-                                                    <span class="qodef-m-additional-label" style="color: #FFFFFF">2021</span>
+                                                    <h5 class="qodef-m-title" style="color: #FFFFFF">Proven Results</h5>
+                                                    <span class="qodef-m-additional-label" style="color: #FFFFFF">2022</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -237,7 +234,7 @@
                                         <div class="elementor-widget-container">
                                             <div class="qodef-shortcode qodef-m  qodef-single-image qodef-layout--default    ">
                                                 <div class="qodef-m-image">
-                                                    <img width="954" height="524" src="wp-content/uploads/2021/10/h1-img.jpg" class="attachment-full size-full" alt="j" loading="lazy" srcset="{{ asset('wp-content/uploads/2021/10/h1-img.jpg') }} 954w, {{ asset('wp-content/uploads/2021/10/h1-img-800x439.jpg') }} 800w, {{ asset('wp-content/uploads/2021/10/h1-img-300x165.jpg') }} 300w, {{ asset('wp-content/uploads/2021/10/h1-img-768x422.jpg') }} 768w" sizes="(max-width: 954px) 100vw, 954px" />
+                                                    <img width="954" height="524" src="{{ asset('wp-content/uploads/2021/10/h1-img.jpg') }}" class="attachment-full size-full" alt="j" loading="lazy" srcset="{{ asset('wp-content/uploads/2021/10/h1-img.jpg') }} 954w, {{ asset('wp-content/uploads/2021/10/h1-img-800x439.jpg') }} 800w, {{ asset('wp-content/uploads/2021/10/h1-img-300x165.jpg') }} 300w, {{ asset('wp-content/uploads/2021/10/h1-img-768x422.jpg') }} 768w" sizes="(max-width: 954px) 100vw, 954px" />
                                                 </div>
                                             </div>
                                         </div>
@@ -254,7 +251,7 @@
                                         <div class="elementor-widget-container">
                                             <div class="qodef-shortcode qodef-m  qodef-single-image qodef-layout--default    ">
                                                 <div class="qodef-m-image">
-                                                    <img width="954" height="524" src="wp-content/uploads/2021/10/h1-img5.jpg" class="attachment-full size-full" alt="j" loading="lazy" srcset="{{ asset('wp-content/uploads/2021/10/h1-img5.jpg') }} 954w, {{ asset('wp-content/uploads/2021/10/h1-img1-800x439.jpg') }} 800w, {{ asset('wp-content/uploads/2021/10/h1-img1-300x165.jpg') }} 300w, {{ asset('wp-content/uploads/2021/10/h1-img1-768x422.jpg') }} 768w" sizes="(max-width: 954px) 100vw, 954px" />
+                                                    <img width="954" height="524" src="{{ asset('wp-content/uploads/2021/10/h1-img5.jpg') }}" class="attachment-full size-full" alt="j" loading="lazy" srcset="{{ asset('wp-content/uploads/2021/10/h1-img5.jpg') }} 954w, {{ asset('wp-content/uploads/2021/10/h1-img1-800x439.jpg') }} 800w, {{ asset('wp-content/uploads/2021/10/h1-img1-300x165.jpg') }} 300w, {{ asset('wp-content/uploads/2021/10/h1-img1-768x422.jpg') }} 768w" sizes="(max-width: 954px) 100vw, 954px" />
                                                 </div>
                                             </div>
                                         </div>
@@ -274,8 +271,8 @@
                                         <div class="elementor-widget-container">
                                             <div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left ">
                                                 <h2 class="qodef-m-title" style="color: #EEEEEE">
-                                                    THE FASTEST ELECTRIC CAR IN THE WORLD </h2>
-                                                <p class="qodef-m-text">We deal with high performace vehicles and provide them awesome services.</p>
+                                                    Great for your wallet and the environment </h2>
+                                                <p class="qodef-m-text">You don't have to be a rocket scientist to invent one of the most timely, fuel saving products on the planet.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -291,7 +288,7 @@
                                         <div class="elementor-widget-container">
                                             <div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left ">
                                                 <h2 class="qodef-m-title" style="color: #EEEEEE">
-                                                    Motorsport as a passion </h2>
+                                                    BENEFITS </h2>
                                             </div>
                                         </div>
                                     </div>
@@ -310,21 +307,8 @@
                                                                 </div>
                                                                 <div class="qodef-m-info">
                                                                     <h4 class="qodef-m-title" style="color: #EEEEEE">
-                                                                        Pure sportiness </h4>
-                                                                    <p class="qodef-m-text">Compact and sleek design. Attractive and aesthetic. Infused with pure sportiness and modern design aspects.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-5e0350b elementor-widget elementor-widget-shiftup_core_info_section" data-id="5e0350b" data-element_type="widget" data-widget_type="shiftup_core_info_section.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="qodef-shortcode qodef-m  qodef-info-section qodef-layout--background-text  qodef-background-text-pos--top-left">
-                                                                <div class="qodef-m-background-text">
-                                                                </div>
-                                                                <div class="qodef-m-info">
-                                                                    <h4 class="qodef-m-title" style="color: #EEEEEE">
-                                                                        Driver-oriented </h4>
-                                                                    <p class="qodef-m-text">Optimized for the concerns from driver's point of view. We keep your view in our consideration and work according to it.</p>
+                                                                        Money Saved</h4>
+                                                                    <p class="qodef-m-text">You will save money at the pumps, yes but less maintenance means fewer oil changes, fewer filter changes, longer lasting spark plugs, fewer repair bills.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -340,21 +324,8 @@
                                                                 </div>
                                                                 <div class="qodef-m-info">
                                                                     <h4 class="qodef-m-title" style="color: #EEEEEE">
-                                                                        All-round star </h4>
-                                                                    <p class="qodef-m-text">Excelling in performance, looks, feel, and literally everything, we provide an All-rounder solution.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-f2d849e elementor-widget elementor-widget-shiftup_core_info_section" data-id="f2d849e" data-element_type="widget" data-widget_type="shiftup_core_info_section.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="qodef-shortcode qodef-m  qodef-info-section qodef-layout--background-text  qodef-background-text-pos--top-left">
-                                                                <div class="qodef-m-background-text">
-                                                                </div>
-                                                                <div class="qodef-m-info">
-                                                                    <h4 class="qodef-m-title" style="color: #EEEEEE">
-                                                                        Aerodynamic </h4>
-                                                                    <p class="qodef-m-text">Perfect aerodynamics. Our designs keep in mind all design aspects with respect of aerodynamics, and provide an optimized solution for all kind of weathers and conditions.</p>
+                                                                        Carbon Plaque </h4>
+                                                                    <p class="qodef-m-text">Xcelerate Fuel Tabs remove carbon build up and stop carbon plaque from interfering with optimul performance in the future.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -370,8 +341,8 @@
                                                                 </div>
                                                                 <div class="qodef-m-info">
                                                                     <h4 class="qodef-m-title" style="color: #EEEEEE">
-                                                                        Instant power </h4>
-                                                                        <p class="qodef-m-text">Feel the difference. <br>Your vehicle would love it too!</p>
+                                                                        Our Tabs ARE Fuel </h4>
+                                                                        <p class="qodef-m-text">Because our PATENTED pre-activated hydrocarbon comes from fuel, when you introduce Xcelerate Tabs into your fuel tank, they become part of fuel again, not an additive like other products.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -392,7 +363,7 @@
                                         <div class="elementor-widget-container">
                                             <div class="qodef-shortcode qodef-m  qodef-video-button qodef--has-img">
                                                 <div class="qodef-m-image">
-                                                    <img width="1920" height="840" src="wp-content/uploads/2021/10/h1-img3.jpg" class="attachment-full size-full" alt="j" loading="lazy" srcset="{{ asset('wp-content/uploads/2021/10/h1-img3.jpg') }} 1920w, {{ asset('wp-content/uploads/2021/10/h1-img3-800x350.jpg') }} 800w, {{ asset('wp-content/uploads/2021/10/h1-img3-300x131.jpg') }} 300w, {{ asset('wp-content/uploads/2021/10/h1-img3-1024x448.jpg') }} 1024w, {{ asset('wp-content/uploads/2021/10/h1-img3-768x336.jpg') }} 768w, {{ asset('wp-content/uploads/2021/10/h1-img3-1536x672.jpg') }} 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />
+                                                    <img width="1920" height="840" src="{{ asset('wp-content/uploads/2021/10/h1-img3.jpg') }}" class="attachment-full size-full" alt="j" loading="lazy" srcset="{{ asset('wp-content/uploads/2021/10/h1-img3.jpg') }} 1920w, {{ asset('wp-content/uploads/2021/10/h1-img3-800x350.jpg') }} 800w, {{ asset('wp-content/uploads/2021/10/h1-img3-300x131.jpg') }} 300w, {{ asset('wp-content/uploads/2021/10/h1-img3-1024x448.jpg') }} 1024w, {{ asset('wp-content/uploads/2021/10/h1-img3-768x336.jpg') }} 768w, {{ asset('wp-content/uploads/2021/10/h1-img3-1536x672.jpg') }} 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />
                                                 </div>
                                                 <a itemprop="url" class="qodef-m-play qodef-magnific-popup qodef-popup-item" href="https://vimeo.com/290450151" data-type="iframe">
                                                     <span class="qodef-m-play-inner">
@@ -436,19 +407,19 @@
                                                             <div class="qodef-e-content">
                                                                 <div class="qodef-e-top-holder">
                                                                     <div class="qodef-e-date">
-                                                                        <a itemprop="dateCreated" href="https://shiftup.qodeinteractive.com/2021/10/" class="entry-date published updated">
+                                                                        <a itemprop="dateCreated" href="#" class="entry-date published updated">
                                                                             <span class="qodef-date-month">Oct</span>
                                                                             <span class="qodef-date-day">05</span>
                                                                         </a>
                                                                     </div>
                                                                     <div class="qodef-e-text">
                                                                         <div class="qodef-e-info">
-                                                                            <a href="https://shiftup.qodeinteractive.com/category/car/" rel="tag">Car</a><span class="qodef-info-separator-single"></span><a href="https://shiftup.qodeinteractive.com/category/electronic/" rel="tag">Electronic</a>
+                                                                            <a href="#" rel="tag">Car</a><span class="qodef-info-separator-single"></span><a href="#" rel="tag">Fuel</a>
                                                                             <div class="qodef-info-separator-end"></div>
                                                                         </div>
                                                                         <h3 itemprop="name" class="qodef-e-title entry-title">
-                                                                            <a itemprop="url" class="qodef-e-title-link" href="https://shiftup.qodeinteractive.com/eyes-on-the-road/">
-                                                                                Eyes on the road </a>
+                                                                            <a itemprop="url" class="qodef-e-title-link" href="#">
+                                                                                Increase Fuel Mileage </a>
                                                                         </h3>
                                                                     </div>
                                                                 </div>
@@ -460,19 +431,19 @@
                                                             <div class="qodef-e-content">
                                                                 <div class="qodef-e-top-holder">
                                                                     <div class="qodef-e-date">
-                                                                        <a itemprop="dateCreated" href="https://shiftup.qodeinteractive.com/2021/10/" class="entry-date published updated">
+                                                                        <a itemprop="dateCreated" href="#" class="entry-date published updated">
                                                                             <span class="qodef-date-month">Oct</span>
                                                                             <span class="qodef-date-day">25</span>
                                                                         </a>
                                                                     </div>
                                                                     <div class="qodef-e-text">
                                                                         <div class="qodef-e-info">
-                                                                            <a href="https://shiftup.qodeinteractive.com/category/car/" rel="tag">Car</a><span class="qodef-info-separator-single"></span><a href="https://shiftup.qodeinteractive.com/category/electronic/" rel="tag">Electronic</a>
+                                                                            <a href="#" rel="tag">Car</a><span class="qodef-info-separator-single"></span><a href="#" rel="tag">Fuel</a>
                                                                             <div class="qodef-info-separator-end"></div>
                                                                         </div>
                                                                         <h3 itemprop="name" class="qodef-e-title entry-title">
-                                                                            <a itemprop="url" class="qodef-e-title-link" href="https://shiftup.qodeinteractive.com/eyes-on-the-road-hands-on-the-wheel-2/">
-                                                                                Fast and Furious </a>
+                                                                            <a itemprop="url" class="qodef-e-title-link" href="#">
+                                                                                Reduces Carbon Build Up </a>
                                                                         </h3>
                                                                     </div>
                                                                 </div>
@@ -484,19 +455,19 @@
                                                             <div class="qodef-e-content">
                                                                 <div class="qodef-e-top-holder">
                                                                     <div class="qodef-e-date">
-                                                                        <a itemprop="dateCreated" href="https://shiftup.qodeinteractive.com/2021/10/" class="entry-date published updated">
+                                                                        <a itemprop="dateCreated" href="#" class="entry-date published updated">
                                                                             <span class="qodef-date-month">Oct</span>
                                                                             <span class="qodef-date-day">30</span>
                                                                         </a>
                                                                     </div>
                                                                     <div class="qodef-e-text">
                                                                         <div class="qodef-e-info">
-                                                                            <a href="https://shiftup.qodeinteractive.com/category/car/" rel="tag">Car</a><span class="qodef-info-separator-single"></span><a href="https://shiftup.qodeinteractive.com/category/electronic/" rel="tag">Electronic</a>
+                                                                            <a href="#" rel="tag">Car</a><span class="qodef-info-separator-single"></span><a href="#" rel="tag">Fuel</a>
                                                                             <div class="qodef-info-separator-end"></div>
                                                                         </div>
                                                                         <h3 itemprop="name" class="qodef-e-title entry-title">
-                                                                            <a itemprop="url" class="qodef-e-title-link" href="https://shiftup.qodeinteractive.com/modern-car-industry/">
-                                                                                Modern Car Industry </a>
+                                                                            <a itemprop="url" class="qodef-e-title-link" href="#">
+                                                                                Decreases Harmful Emissions </a>
                                                                         </h3>
                                                                     </div>
                                                                 </div>
@@ -508,19 +479,19 @@
                                                             <div class="qodef-e-content">
                                                                 <div class="qodef-e-top-holder">
                                                                     <div class="qodef-e-date">
-                                                                        <a itemprop="dateCreated" href="https://shiftup.qodeinteractive.com/2021/11/" class="entry-date published updated">
+                                                                        <a itemprop="dateCreated" href="#" class="entry-date published updated">
                                                                             <span class="qodef-date-month">Nov</span>
                                                                             <span class="qodef-date-day">01</span>
                                                                         </a>
                                                                     </div>
                                                                     <div class="qodef-e-text">
                                                                         <div class="qodef-e-info">
-                                                                            <a href="https://shiftup.qodeinteractive.com/category/car/" rel="tag">Car</a><span class="qodef-info-separator-single"></span><a href="https://shiftup.qodeinteractive.com/category/electronic/" rel="tag">Electronic</a>
+                                                                            <a href="#" rel="tag">Car</a><span class="qodef-info-separator-single"></span><a href="#" rel="tag">Fuel</a>
                                                                             <div class="qodef-info-separator-end"></div>
                                                                         </div>
                                                                         <h3 itemprop="name" class="qodef-e-title entry-title">
-                                                                            <a itemprop="url" class="qodef-e-title-link" href="https://shiftup.qodeinteractive.com/automobile-catalog/">
-                                                                                Automobile Catalog </a>
+                                                                            <a itemprop="url" class="qodef-e-title-link" href="#">
+                                                                                Increases Horsepower </a>
                                                                         </h3>
                                                                     </div>
                                                                 </div>
@@ -584,8 +555,7 @@
                                                         <div class="elementor-widget-container">
                                                             <div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left ">
                                                                 <h2 class="qodef-m-title" style="color: #EEEEEE">
-                                                                    There’s no limit to how much fun you can
-                                                                    have at the wheel of RX1 </h2>
+                                                                    Often Imitated NEVER duplicated </h2>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -603,8 +573,8 @@
                                                     </div>
                                                     <div class="elementor-element elementor-element-eed8929 elementor-widget elementor-widget-shiftup_core_button" data-id="eed8929" data-element_type="widget" data-widget_type="shiftup_core_button.default">
                                                         <div class="elementor-widget-container">
-                                                            <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="https://shiftup.qodeinteractive.com/shop/" target="_self" style="font-size: 15px;font-weight: 600;margin: 30px 0 0 0">
-                                                                <span class="qodef-m-text">view more</span>
+                                                            <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link " href="#" target="_self" style="font-size: 15px;font-weight: 600;margin: 30px 0 0 0">
+                                                                <span class="qodef-m-text">Join Now</span>
                                                             </a>
                                                         </div>
                                                     </div>
@@ -629,9 +599,9 @@
                                                             <span class="qodef-e-image">
                                                                 <a itemprop="url" href="#" target="_blank">
                                                                     <span class="qodef-e-logo">
-                                                                        <img width="200" height="110" src="wp-content/uploads/2021/10/client-img4.png" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
+                                                                        <img width="200" height="110" src="{{ asset('wp-content/uploads/2021/10/client-img4.png') }}" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
                                                                     <span class="qodef-e-hover-logo">
-                                                                        <img width="200" height="110" src="wp-content/uploads/2021/10/client-img4-hov.png" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
+                                                                        <img width="200" height="110" src="{{ asset('wp-content/uploads/2021/10/client-img4-hov.png') }}" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
                                                                 </a>
                                                             </span>
                                                         </span>
@@ -641,9 +611,9 @@
                                                             <span class="qodef-e-image">
                                                                 <a itemprop="url" href="#" target="_blank">
                                                                     <span class="qodef-e-logo">
-                                                                        <img width="200" height="110" src="wp-content/uploads/2021/10/client-img3.png" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
+                                                                        <img width="200" height="110" src="{{ asset('wp-content/uploads/2021/10/client-img3.png') }}" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
                                                                     <span class="qodef-e-hover-logo">
-                                                                        <img width="200" height="110" src="wp-content/uploads/2021/10/client-img3-hov.png" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
+                                                                        <img width="200" height="110" src="{{ asset('wp-content/uploads/2021/10/client-img3-hov.png') }}" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
                                                                 </a>
                                                             </span>
                                                         </span>
@@ -653,9 +623,9 @@
                                                             <span class="qodef-e-image">
                                                                 <a itemprop="url" href="#" target="_blank">
                                                                     <span class="qodef-e-logo">
-                                                                        <img width="200" height="110" src="wp-content/uploads/2021/10/client-img2.png" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
+                                                                        <img width="200" height="110" src="{{ asset('wp-content/uploads/2021/10/client-img2.png') }}" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
                                                                     <span class="qodef-e-hover-logo">
-                                                                        <img width="200" height="110" src="wp-content/uploads/2021/10/client-img2-hov.png" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
+                                                                        <img width="200" height="110" src="{{ asset('wp-content/uploads/2021/10/client-img2-hov.png') }}" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
                                                                 </a>
                                                             </span>
                                                         </span>
@@ -665,9 +635,9 @@
                                                             <span class="qodef-e-image">
                                                                 <a itemprop="url" href="#" target="_blank">
                                                                     <span class="qodef-e-logo">
-                                                                        <img width="200" height="110" src="wp-content/uploads/2021/10/client-img1.png" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
+                                                                        <img width="200" height="110" src="{{ asset('wp-content/uploads/2021/10/client-img1.png') }}" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
                                                                     <span class="qodef-e-hover-logo">
-                                                                        <img width="200" height="110" src="wp-content/uploads/2021/10/client-img1-hov.png" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
+                                                                        <img width="200" height="110" src="{{ asset('wp-content/uploads/2021/10/client-img1-hov.png') }}" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
                                                                 </a>
                                                             </span>
                                                         </span>
@@ -677,9 +647,9 @@
                                                             <span class="qodef-e-image">
                                                                 <a itemprop="url" href="#" target="_blank">
                                                                     <span class="qodef-e-logo">
-                                                                        <img width="200" height="110" src="wp-content/uploads/2021/10/client-img5.png" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
+                                                                        <img width="200" height="110" src="{{ asset('wp-content/uploads/2021/10/client-img5.png') }}" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
                                                                     <span class="qodef-e-hover-logo">
-                                                                        <img width="200" height="110" src="wp-content/uploads/2021/10/client-img5-hov.png" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
+                                                                        <img width="200" height="110" src="{{ asset('wp-content/uploads/2021/10/client-img5-hov.png') }}" class="attachment-full size-full" alt="j" loading="lazy" /> </span>
                                                                 </a>
                                                             </span>
                                                         </span>
@@ -718,25 +688,26 @@
                                                 <div class="qodef-m-inner">
                                                     <div class="qodef-e-content">
                                                         <div class="qodef-m-title">
-                                                            <p style="color: #EEEEEE">License</p>
+                                                            <p style="color: #EEEEEE">1 Pack</p>
                                                             <span class="qodef-info-separator-single"></span>
-                                                            <p style="color: #EEEEEE">Basic</p>
+                                                            <p style="color: #EEEEEE">06 Tablets</p>
                                                         </div>
                                                         <div class="qodef-m-price">
                                                             <div class="qodef-m-price-wrapper qodef-h2" style="color: #FFFFFF">
                                                                 <span class="qodef-m-price-currency">$</span>
-                                                                <span class="qodef-m-price-value">24.750</span>
+                                                                <span class="qodef-m-price-value">24</span>
                                                             </div>
                                                         </div>
                                                         <div class="qodef-m-content">
                                                             <ul>
-                                                                <li>Quisque rhoncus</li>
-                                                                <li>Lorem ipsum dolor</li>
-                                                                <li>Vivamus velit mir</li>
+                                                                <li>Increase Fuel Efficiency</li>
+                                                                <li>Lower Emissions</li>
+                                                                <li>Increase Power</li>
+                                                                <li>Clean Engine</li>
                                                             </ul>
                                                         </div>
                                                         <div class="qodef-m-button clear">
-                                                            <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link " href="https://shiftup.qodeinteractive.com/shop/" target="_self" style="color: #FFFFFF"> <span class="qodef-m-text">purchase now</span></a>
+                                                            <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link " href="#" target="_self" style="color: #FFFFFF"> <span class="qodef-m-text">purchase now</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -753,26 +724,26 @@
                                                 <div class="qodef-m-inner">
                                                     <div class="qodef-e-content">
                                                         <div class="qodef-m-title">
-                                                            <p style="color: #EEEEEE">License</p>
+                                                            <p style="color: #EEEEEE">3 Pack</p>
                                                             <span class="qodef-info-separator-single"></span>
-                                                            <p style="color: #EEEEEE">Standard</p>
+                                                            <p style="color: #EEEEEE">18 Tablets</p>
                                                         </div>
                                                         <div class="qodef-m-price">
                                                             <div class="qodef-m-price-wrapper qodef-h2" style="color: #FFFFFF">
                                                                 <span class="qodef-m-price-currency">$</span>
-                                                                <span class="qodef-m-price-value">27.150</span>
+                                                                <span class="qodef-m-price-value">60</span>
                                                             </div>
                                                         </div>
                                                         <div class="qodef-m-content">
                                                             <ul>
-                                                                <li>Quisque rhoncus</li>
-                                                                <li>Lorem ipsum dolor</li>
-                                                                <li>Vivamus velit mir</li>
-                                                                <li>Curabitur nunc </li>
+                                                                <li>Increase Fuel Efficiency</li>
+                                                                <li>Lower Emissions</li>
+                                                                <li>Increase Power</li>
+                                                                <li>Clean Engine</li>
                                                             </ul>
                                                         </div>
                                                         <div class="qodef-m-button clear">
-                                                            <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link " href="https://shiftup.qodeinteractive.com/product/generator/" target="_self" style="color: #FFFFFF"> <span class="qodef-m-text">purchase now</span></a>
+                                                            <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link " href="#" target="_self" style="color: #FFFFFF"> <span class="qodef-m-text">purchase now</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -789,27 +760,26 @@
                                                 <div class="qodef-m-inner">
                                                     <div class="qodef-e-content">
                                                         <div class="qodef-m-title">
-                                                            <p style="color: #EEEEEE">License</p>
+                                                            <p style="color: #EEEEEE">10 Pack</p>
                                                             <span class="qodef-info-separator-single"></span>
-                                                            <p style="color: #EEEEEE">Deluxe</p>
+                                                            <p style="color: #EEEEEE">60 Tablets</p>
                                                         </div>
                                                         <div class="qodef-m-price">
                                                             <div class="qodef-m-price-wrapper qodef-h2" style="color: #FFFFFF">
                                                                 <span class="qodef-m-price-currency">$</span>
-                                                                <span class="qodef-m-price-value">32.000</span>
+                                                                <span class="qodef-m-price-value">160</span>
                                                             </div>
                                                         </div>
                                                         <div class="qodef-m-content">
                                                             <ul>
-                                                                <li>Quisque rhoncus</li>
-                                                                <li>Lorem ipsum dolor</li>
-                                                                <li>Vivamus velit mir</li>
-                                                                <li>Curabitur nunc </li>
-                                                                <li> Fusce et rutrum dui</li>
+                                                                <li>Increase Fuel Efficiency</li>
+                                                                <li>Lower Emissions</li>
+                                                                <li>Increase Power</li>
+                                                                <li>Clean Engine</li>
                                                             </ul>
                                                         </div>
                                                         <div class="qodef-m-button clear">
-                                                            <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link " href="https://shiftup.qodeinteractive.com/shop/three-columns-wide/" target="_self" style="color: #FFFFFF"> <span class="qodef-m-text">purchase now</span></a>
+                                                            <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link " href="#" target="_self" style="color: #FFFFFF"> <span class="qodef-m-text">purchase now</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -826,28 +796,26 @@
                                                 <div class="qodef-m-inner">
                                                     <div class="qodef-e-content">
                                                         <div class="qodef-m-title">
-                                                            <p style="color: #EEEEEE">License</p>
+                                                            <p style="color: #EEEEEE">20 Pack</p>
                                                             <span class="qodef-info-separator-single"></span>
-                                                            <p style="color: #EEEEEE">Premium</p>
+                                                            <p style="color: #EEEEEE">120 Tablets</p>
                                                         </div>
                                                         <div class="qodef-m-price">
                                                             <div class="qodef-m-price-wrapper qodef-h2" style="color: #FFFFFF">
                                                                 <span class="qodef-m-price-currency">$</span>
-                                                                <span class="qodef-m-price-value">39.700</span>
+                                                                <span class="qodef-m-price-value">300</span>
                                                             </div>
                                                         </div>
                                                         <div class="qodef-m-content">
                                                             <ul>
-                                                                <li>Quisque rhoncus</li>
-                                                                <li>Lorem ipsum dolor</li>
-                                                                <li>Vivamus velit mir</li>
-                                                                <li>Curabitur nunc </li>
-                                                                <li> Fusce et rutrum</li>
-                                                                <li> Interdum eget </li>
+                                                                <li>Increase Fuel Efficiency</li>
+                                                                <li>Lower Emissions</li>
+                                                                <li>Increase Power</li>
+                                                                <li>Clean Engine</li>
                                                             </ul>
                                                         </div>
                                                         <div class="qodef-m-button clear">
-                                                            <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link " href="https://shiftup.qodeinteractive.com/product/rim/" target="_self" style="color: #FFFFFF"> <span class="qodef-m-text">purchase now</span></a>
+                                                            <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link " href="#" target="_self" style="color: #FFFFFF"> <span class="qodef-m-text">purchase now</span></a>
                                                         </div>
                                                     </div>
                                                 </div>

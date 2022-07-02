@@ -37,9 +37,7 @@
                                 </a></p>
                         </div>
                         <div id="block-20" class="widget widget_block" data-area="qodef-footer-top-area-column-1">
-                            <p>Hit the road with the astounding ShiftUp theme, made especially for repair shops, car
-                                rental and automotive easing services.
-                            </p>
+                            <p>SAVING PEOPLE MONEY AT THE FUEL PUMPS</p>
                         </div>
                         <div id="block-15" class="widget widget_block" data-area="qodef-footer-top-area-column-1">
                             <p style="margin:15px 0 0 0;">Support center 24/7</p>
@@ -270,7 +268,7 @@ Discover more </span>
                                                                 filter="url(#blur)"/><rect
                 id="Cursor" width="6" height="6" transform="translate(10 10)"/></svg> <svg
             class="qodef-svg--cursor-close qodef-cursor-close-svg" xmlns="http://www.w3.org/2000/svg"
-            xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68"><defs><clipPath
+            width="68" height="68" viewBox="0 0 68 68"><defs><clipPath
                     id="clip-path"><rect width="68" height="68" fill="none"/></clipPath></defs><g
                 clip-path="url(#clip-path)"><g transform="translate(-1179 -282)"><path d="M0,0H68V68H0Z"
                                                                                        transform="translate(1179 282)"/><g

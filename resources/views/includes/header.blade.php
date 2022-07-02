@@ -3,7 +3,7 @@
         <div class="qodef-header-wrapper">
             <div class="qodef-header-logo">
                 <a itemprop="url" class="qodef-header-logo-link qodef-height--not-set qodef-source--svg-path"
-                   href="https://shiftup.qodeinteractive.com/" rel="home">
+                   href="{{ url('/') }}" rel="home">
                     <svg xmlns="http://www.w3.org/2000/svg" width="164" height="21" viewBox="0 0 164 21">
                         <g id="logo-white" transform="translate(-365.544 -290.551)">
                             <path
@@ -82,7 +82,7 @@
                     <div class="qodef-widget-dropdown-cart-outer">
                         <div class="qodef-widget-dropdown-cart-inner">
                             <a itemprop="url" class="qodef-m-opener"
-                               href="https://shiftup.qodeinteractive.com/cart/">
+                               href="#">
                                 <span class="qodef-m-opener-label">Cart</span>
                                 <span class="qodef-m-opener-count">0</span>
                             </a>
@@ -109,7 +109,7 @@
     <div class="qodef-header-sticky qodef-custom-header-layout qodef-appearance--down">
         <div class="qodef-header-sticky-inner ">
             <a itemprop="url" class="qodef-header-logo-link qodef-height--not-set qodef-source--svg-path"
-               href="https://shiftup.qodeinteractive.com/" rel="home">
+               href="{{ url('/') }}" rel="home">
                 <svg xmlns="http://www.w3.org/2000/svg" width="164" height="21" viewBox="0 0 164 21">
                     <g id="logo-black" transform="translate(-365.544 -290.551)">
                         <path data-name="Path 1328"
@@ -165,7 +165,7 @@
                     <div class="qodef-widget-dropdown-cart-outer">
                         <div class="qodef-widget-dropdown-cart-inner">
                             <a itemprop="url" class="qodef-m-opener"
-                               href="https://shiftup.qodeinteractive.com/cart/">
+                               href="#">
                                 <span class="qodef-m-opener-label">Cart</span>
                                 <span class="qodef-m-opener-count">0</span>
                             </a>
@@ -192,7 +192,7 @@
 <header id="qodef-page-mobile-header" role="banner">
     <div id="qodef-page-mobile-header-inner" class="">
         <a itemprop="url" class="qodef-mobile-header-logo-link qodef-height--set qodef-source--svg-path"
-           href="https://shiftup.qodeinteractive.com/" rel="home">
+           href="{{ url('/') }}" rel="home">
             <svg xmlns="http://www.w3.org/2000/svg" width="156" height="20" viewBox="0 0 156 20">
                 <g id="logo-tablet-mobile" transform="translate(-365.544 -290.551)">
                     <path id="Path_1328" data-name="Path 1328"

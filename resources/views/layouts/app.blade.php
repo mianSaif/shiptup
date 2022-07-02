@@ -1461,11 +1461,10 @@
         <div id="qodef-content-bottom">
             <div id="qodef-content-bottom-inner" class="qodef-content-grid">
                 <div id="block-11" class="widget widget_block" data-area="content-bottom">
-                    <h2 style="color:#ffffff;"><a href="/cdn-cgi/l/email-protection#691a1c1919061b1d291a01000f1d1c19470a0604"><span class="__cf_email__" data-cfemail="14676164647b666054677c7d726061643a777b79">[email&#160;protected]</span></a>
+                    <h2 style="color:#ffffff;"><a href="#"><span class="__cf_email__" data-cfemail="14676164647b666054677c7d726061643a777b79">[email&#160;protected]</span></a>
                     </h2>
                     <p></p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                        dolor et.</p>
+                    <p>Our support are 24/7 available to listen your queries.</p>
                 </div>
                 <div id="shiftup_core_button-2" class="widget widget_shiftup_core_button" data-area="content-bottom"><a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled qodef-size--large qodef-html--link qodef-has-arrow" href="" target="_self" style="margin: -12px 50px 0 0">
                         <svg class="qodef-svg--slider-arrow-right" xmlns="http://www.w3.org/2000/svg" width="26" height="24.042">
@@ -1620,18 +1619,6 @@
             transform: scale(1.7) translate(0, 1px)
         }
     </style>
-    <script type='text/javascript' src='https://shiftup.qodeinteractive.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
-    <script type='text/javascript' src='https://shiftup.qodeinteractive.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
-    <script type='text/javascript' id='contact-form-7-js-extra'>
-        /* <![CDATA[ */
-        var wpcf7 = {
-            "api": {
-                "root": "https:\/\/shiftup.qodeinteractive.com\/wp-json\/",
-                "namespace": "contact-form-7\/v1"
-            }
-        };
-        /* ]]> */
-    </script>
     <script type='text/javascript' src='{{ asset("wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.4") }}' id='contact-form-7-js'></script>
     <script type='text/javascript' src='https://export.qodethemes.com/_toolbar/assets/js/rbt-modules.js?ver=6.0' id='rabbit_js-js'></script>
     <script type='text/javascript' src='{{ asset("wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.14") }}' defer async id='tp-tools-js'></script>
